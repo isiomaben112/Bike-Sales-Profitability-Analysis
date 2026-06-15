@@ -2,15 +2,15 @@
 
 ## Executive Summary
 
-Purpose
+#Purpose
 This project analyzes bike sales performance using transactional sales data to identify key drivers of profitability across product categories, customer segments, products, and geographic markets. But despite strong overall sales performance, the business lack clarity regarding which categories, customer segment, products and markets generate the greatest profitability and operational efficiency. Understanding these factors is necessary to support data-driven dscision making and resource allocation. This project analysis aims to tackle this problems and provide business recommendation to improve business profitability.
 
-Findings & Conclusion
+#Findings & Conclusion
 The findings reveal that Accessories deliver the highest profit margin efficiency, while Bikes generate the largest share of overall profit despite operating at lower margins. Adults and Young Adults account for the majority of profit contribution with seniors performing the highest in profit margin efficiency. while no single product dominate in profit contribution some products cocnsistently show weaker margin performance. The findings also reveal United States and Austrialia as the business most valuable market both accounting for more than half of the business sales while Canada demonstrates the strongest margin performance among all markets despite relatively low revenue volume.
 
 With these findings, the business now has a clear directive on which product categories, customer segments, products, and regions is the greatest profit contributors and which performed best in margin efficiency. This insight helps the business in better decision making and future investment.
 
-Recommendation
+#Recommendation
 The analysis also identified potential profitability inefficiencies across several products, categories, customer segments, and regions. Based on these findings the following actions are recommended;
 . Further investigation into all cost structure.
 . production efficiency and operational efficiency should also be investigated.
@@ -19,7 +19,6 @@ This actions are recommended to improve overall profitability and support future
 
 ## Project Overview
 
-Purpose
 This project analyzes bike sales performance across products, categories, customer segment and regions. The goal of this project is to identify profitability drivers and uncover inefficienies to improve growth.
 
 ## Business Questions
