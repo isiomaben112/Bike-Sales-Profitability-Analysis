@@ -15,9 +15,11 @@ With these findings, the business now has a clear directive on which product cat
 #Recommendation
 
 The analysis also identified potential profitability inefficiencies across several products, categories, customer segments, and regions. Based on these findings the following actions are recommended;
-. Further investigation into all cost structure.
-. production efficiency and operational efficiency should also be investigated.
-. Investigation are also required into Pricing strategies.
+
+#. Further investigation into all cost structure.
+#. production efficiency and operational efficiency should also be investigated.
+#. Investigation are also required into Pricing strategies.
+
 This actions are recommended to improve overall profitability and support future business growth.
 
 ## Project Overview
