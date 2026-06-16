@@ -14,7 +14,7 @@ With these findings, the business now has a clear directive on which product cat
 
 Recommendation
 
-The analysis also identified potential profitability inefficiencies across several products, categories, customer segments, and regions. Based on the findings, the following actions are recommended;
+The analysis also identified potential profitability inefficiencies across several products, categories, customer segments, and regions. Based on these findings, the following actions are recommended;
 
 - Conduct a cost structure analysis across products, customer segments, and regions to identify profitability inefficiencies.
 - Investigate production and operational processes to determine factors affecting margin performance.
@@ -38,30 +38,49 @@ This project analyzes bike sales performance across products, categories, custom
 
 ## Dataset Information
 
-Source
+Source: Kaggle Bike Sales Dataset
 
-Data Type
+Data Type: Retail Sales Transaction data
 
 Original Dataset
+Records: 113,037
+Fields: 18
 
 Post-Cleaning Dataset
+Records: 112,037
+Fields: 15
 
 Tools Used
-
+- Microsoft Excel.
+- Pivot Table.
+- pivot Chart.
 
 ## Methodology
 
-Data Cleaning
+This dataset was cleaned and analyze through the following steps and with the use of the following techniques.
+
+Data Preparation
+- Removal of duplicate records.
+- Validation and recalculation of revenue and profit matrics.
+- Standardization of gender values.
+- Standardization of columns names for consistency.
+- Removal of redundant date related field.
 
 Analytical Techniques
-
+- Data Cleaning.
+- Data Validation.
+- KPI Analysis.
+- Dashboard Design.
 
 ## Key Performance Indicators (KPIs)
 
+The business generated $94,688,588 in sales and also made a profit of $41,908,055 which amounted to a margin efficiency of 44,26%.
 
 ## Dashboard Overview
 
-(Insert screenshot here)
+This dashboard provides an interactive view of sales performance, profitability, customer segments, products and country performance.
+
+![Dashboard](Dashboard.png)
 
 
 ## Key Findings
