@@ -43,12 +43,12 @@ Source: Kaggle Bike Sales Dataset
 Data Type: Retail Sales Transaction data
 
 Original Dataset
-Records: 113,037
-Fields: 18
+- Records: 113,037
+- Fields: 18
 
 Post-Cleaning Dataset
-Records: 112,037
-Fields: 15
+- Records: 112,037
+- Fields: 15
 
 Tools Used
 - Microsoft Excel.
