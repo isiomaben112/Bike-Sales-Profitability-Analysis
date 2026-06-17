@@ -1,4 +1,4 @@
-b# Bike Sales & Profitability Analysis
+# Bike Sales & Profitability Analysis
 
 ## Executive Summary
 
